@@ -1,0 +1,44 @@
+body{
+    background:Linear-gradient(#9a08dd 0%, #93ace3 40%, #7420d3 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.row {
+    padding-top: 0px 20px;
+}
+.profilemage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.portofolio{
+    background:Linear-gradient(#fffeff 0%, #ffffffba 40%, #ffffff00 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+.skills {
+    padding-bottom: 300px;
+    padding-top: 55px;
+    
+}
+.footer{
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 20px;
+}
+.watermark {
+    padding:top 30px;
+}
